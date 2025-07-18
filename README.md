@@ -19,3 +19,18 @@ Este é o protótipo de um **aplicativo mobile** que permite ao usuário agendar
 - Giovana Najara de Almeida Santos
 - Stephany Sousa Santos
 
+## 🖼️ Logo Marca
+
+![Logo](logo-marca.png)
+
+## 🖼️ Telas do App
+
+### Tela Inicial
+![Tela Inicial](tela-inicial.png)
+
+### Tela Login
+![Tela Login](tela-login.png)
+
+### Tela Agendamento
+![Tela Agendamento](tela-agendamento.png)
+
