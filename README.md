@@ -43,13 +43,16 @@ Muitos motoristas enfrentam dificuldades com:
 
 #### Tela Login
 Apresenta o nome do aplicativo com design atrativo e opção de entrar ou criar conta. Acesso rápido à conta.
+
 ![Tela Login](tela-login.png)
 
 #### 🔹 Tela Principal
 Exibe a logomarca do app, uma barra com o tempo desde a última lavagem e botões com as principais funcionalidades, como agendamento, histórico, planos, unidades e feedback.
+
 ![Tela Principal](tela-inicio.png)
 
 #### 🔹 Tela de Agendamento
 Tela onde o usuário pode selecionar data, horário e unidade de lavagem, conforme disponibilidade.
+
 ![Tela Agendamento](tela-agendamento.png)
 
