@@ -26,7 +26,7 @@ Este é o protótipo de um **aplicativo mobile** que permite ao usuário agendar
 ## 🖼️ Telas do App
 
 ### Tela Inicial
-![Tela Inicial](tela-inicial.png)
+![Tela Inicial](tela-inicio.png)
 
 ### Tela Login
 ![Tela Login](tela-login.png)
